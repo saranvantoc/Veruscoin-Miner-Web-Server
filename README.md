@@ -1,3 +1,7 @@
+# Cloud Miner for Mining Crypto on VPS headless servers
+
+When mining cryptocurrency on Linux headless servers. When the SSH session is closed or terminated the mining session will stop. This script uses screen to keep the mining session open even when the SSH session is closed. This script will run @reboot.
+
 # Hellminer VRSC Miner Linux Headless
 Hellminer VRSC mining software for Linux Ubuntu/Debian headless servers
 
