@@ -1,4 +1,5 @@
 #!/bin/bash
+# install.sh is used to install git, make adjustments to crontab, set file permissions for hellminer.
 nproc=$(nproc --all)
 sudo apt-get update -y
 sudo apt-get install git screen
