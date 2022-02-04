@@ -1,4 +1,4 @@
-# Cloud Miner for Mining Crypto on VPS headless servers
+# VerusCoin Hellminer Webserver
 
 When mining cryptocurrency on Linux headless servers. If SSH session is closed or terminated by the user the mining session will stop. This script uses screen to keep the mining session open even when the SSH session is closed. This script will run @reboot.
 
@@ -8,6 +8,12 @@ Hellminer VRSC mining software for Linux Ubuntu/Debian headless servers
 # Cloudhosts
 
 Some Cloudhosts will give you free credit for signing up while its not convinent long term due to pricing to mine from VPS servers. The Cloudhosts mentioned below will give you some free credit you can then create droplets and start mining VRSC.
+
+| Hosting Service| Free Credit| Link |
+| ----------- | ----------- |----------- |
+| DigitalOceon| $100 |https://try.digitalocean.com/do-vs-linode/?utm_campaign=emea_conquesting_kw_en_cpc&utm_adgroup=linode&_keyword=linode%20free&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gclid=Cj0KCQiA_JWOBhDRARIsANymNOZos2gxrD3HyhtYZWDtr2qIQeTnOjgMUfocNEcSnibIAQuvNqDBIAsaAnKAEALw_wcB|
+| Ergo        | nbminer     |Y| ergo.herominers.com |Y|Autolykos
+| Flux        | lolminer    |Y| flux.herominers.com||ZelHash
 
 1) DigitalOceon $100 free
 https://try.digitalocean.com/do-vs-linode/?utm_campaign=emea_conquesting_kw_en_cpc&utm_adgroup=linode&_keyword=linode%20free&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gclid=Cj0KCQiA_JWOBhDRARIsANymNOZos2gxrD3HyhtYZWDtr2qIQeTnOjgMUfocNEcSnibIAQuvNqDBIAsaAnKAEALw_wcB
