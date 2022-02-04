@@ -11,7 +11,7 @@ Some Cloudhosts will give you free credit for signing up while its not convinent
 
 | Hosting Service| Free Credit| Link |
 | ----------- | ----------- |----------- |
-| DigitalOceon| $100 | [DigitalOceon $100 free](https://try.digitalocean.com/do-vs-linode/?utm_campaign=emea_conquesting_kw_en_cpc&utm_adgroup=linode&_keyword=linode%20free&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gclid=Cj0KCQiA_JWOBhDRARIsANymNOZos2gxrD3HyhtYZWDtr2qIQeTnOjgMUfocNEcSnibIAQuvNqDBIAsaAnKAEALw_wcB|)
+| DigitalOceon| $100 | [DigitalOceon $100 free](https://try.digitalocean.com/do-vs-linode/?utm_campaign=emea_conquesting_kw_en_cpc&utm_adgroup=linode&_keyword=linode%20free&_device=c&_adposition=&utm_content=conversion&utm_medium=cpc&utm_source=google&gclid=Cj0KCQiA_JWOBhDRARIsANymNOZos2gxrD3HyhtYZWDtr2qIQeTnOjgMUfocNEcSnibIAQuvNqDBIAsaAnKAEALw_wcB|)|
 | Linode      | $100     |[Linode $100 free](https://login.linode.com/signup?promo=DOCS32SAFC)|
 | Vultr       |     |[Vultr](https://www.vultr.com/vultr-vs-linode/?promo=100FLY14&utm_source=google-emea&utm_medium=paidmedia&obility_id=128464397907&utm_campaign={campaign}&utm_term=linode%20alternative&utm_content=550055491578&gclid=Cj0KCQiA_JWOBhDRARIsANymNObxFLvKs0cKoCD0i46s6lJZtivTnGfUZ9gQhb4rGp6C3UNjor3FuUwaAvfhEALw_wcB)
 
