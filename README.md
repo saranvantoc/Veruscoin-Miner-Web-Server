@@ -7,7 +7,7 @@ Hellminer VRSC mining software for Linux Ubuntu/Debian headless servers
 
 # Cloudhosts
 
-Some Cloudhosts will give you free credit for signing up while its not convinent long term due to pricing. You can start to mine VerusCoin from VPS servers this will give you a basic understanding on how to mine VerusCoin (VRSC). The Cloudhosts mentioned below will give you some free credit you can use these credits to create droplets and start mining VRSC in the Cloud.
+Some Cloudhosts will give you free credit for signing up while its not convinent long term due to pricing. You can start to mine VerusCoin from VPS servers this will give you a basic understanding on how to mine VerusCoin (VRSC). The Cloudhosts mentioned below will give you some free credit that you can use overtime. These credits will let you create VPS servers and start mining VerusCoin (VRSC) in the Cloud.
 
 | Hosting Service| Free Credit| Link |
 | ----------- | ----------- |----------- |
