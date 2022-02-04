@@ -13,7 +13,7 @@ Some Cloudhosts will give you free credit for signing up while its not convinent
 | ----------- | ----------- |----------- |
 | DigitalOceon| $100 |[DigitalOceon $100 free](https://try.digitalocean.com/freetrialoffer/)|
 | Linode      | $100     |[Linode $100 free](https://login.linode.com/signup?promo=DOCS32SAFC)|
-| Vultr       |     |[Vultr](https://www.vultr.com/vultr-vs-linode/?promo=100FLY14&utm_source=google-emea&utm_medium=paidmedia&obility_id=128464397907&utm_campaign={campaign}&utm_term=linode%20alternative&utm_content=550055491578&gclid=Cj0KCQiA_JWOBhDRARIsANymNObxFLvKs0cKoCD0i46s6lJZtivTnGfUZ9gQhb4rGp6C3UNjor3FuUwaAvfhEALw_wcB)
+| Vultr       | $100   |[Vultr](https://www.vultr.com/vultr-vs-linode/?promo=100FLY14&utm_source=google-emea&utm_medium=paidmedia&obility_id=128464397907&utm_campaign={campaign}&utm_term=linode%20alternative&utm_content=550055491578&gclid=Cj0KCQiA_JWOBhDRARIsANymNObxFLvKs0cKoCD0i46s6lJZtivTnGfUZ9gQhb4rGp6C3UNjor3FuUwaAvfhEALw_wcB)
 
 
 
